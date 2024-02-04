@@ -2,9 +2,8 @@ import React from "react";
 import Item from "./Items.js";
 import Form from "./Form.js";
 import { useEffect, useState } from "react";
-
 import "../css/style.css";
-import { DataContext } from "./DataContext.js";
+import DataContext from "./DataContext.js";
 import { useContext } from "react";
 
 const design1 = { color: "red", textAlign: "center" };

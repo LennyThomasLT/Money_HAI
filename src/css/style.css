@@ -6,3 +6,21 @@
 .font {
   font-family: "Kanit", sans-serif;
 }
+
+.Items {
+  padding: 300px 0;
+  text-align: center;
+}
+
+.income {
+  color: rgb(0, 220, 0);
+  text-decoration-color: green;
+}
+
+.expense {
+  color: red;
+}
+
+.font {
+  font-family: "Kanit";
+}

@@ -22,7 +22,6 @@ const Form = (props) => {
     props.onAddItem(itemData);
     setTitle("");
     setAmount(0);
-    // console.log(itemData);
   };
 
   return (
